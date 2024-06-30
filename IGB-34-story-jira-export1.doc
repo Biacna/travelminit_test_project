@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#IGB-34] As a QA tester I want to perform GUI testing to ensure a positive and seamless user experience for travelminit website</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://itfclasses.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://itfclasses.atlassian.net/browse/IGB-1">Ensuring seamless user experience</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://itfclasses.atlassian.net/browse/IGB-1">IGB-1</a>)</span>
+                <h3 class="formtitle"><img src="https://itfclasses.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [IGB-34]&nbsp;<a href="https://itfclasses.atlassian.net/browse/IGB-34">As a QA tester I want to perform GUI testing to ensure a positive and seamless user experience for travelminit website</a>
+            <span class="subText">
+               Created: 27/Jun/24                   &nbsp;Updated: 30/Jun/24
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">To Do</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/secure/BrowseProject.jspa?id=10411">Ignat_Georgiana_Bianca_ST1</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                                        <a title="Travelminit Test v1.0"
+                href="https://itfclasses.atlassian.net/issues/?jql=project%3D10411%20AND%20%22fixVersion%22%3D10433%20ORDER%20BY%20priority%20ASC"
+            >Travelminit Test v1.0</a>                        </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://itfclasses.atlassian.net/browse/IGB-1">Ensuring seamless user experience</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Story
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                id="word_reporter_712020:ac03dc4b-ffe6-4f35-ba83-41f3c30a3c67"
+                href="https://itfclasses.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3Aac03dc4b-ffe6-4f35-ba83-41f3c30a3c67">
+                    IT Factory
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Unassigned
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Unresolved
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-19068-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+            <tr>
+            <td bgcolor="#f0f0f0" width="20%" valign="top">
+                <b>Issue links:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" class="noPadding">
+                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="blank">
+                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Relates</b><br/>
+                            </td>
+                        </tr>
+                                    <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-47">
+                     IGB-47                 </a>
+            </td>
+            <td>
+                [header section of 404 page] Header s...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                relates to
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-48">
+                     IGB-48                 </a>
+            </td>
+            <td>
+                [Booking process] Booking validation ...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+                                                                            <tr>
+                            <td colspan="4" bgcolor="#f0f0f0">
+                                <b>Tests</b><br/>
+                            </td>
+                        </tr>
+                                                                <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-35">
+                     IGB-35                 </a>
+            </td>
+            <td>
+                Verify the allignment of page element...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-36">
+                     IGB-36                 </a>
+            </td>
+            <td>
+                Verify that accommodation images are ...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-38">
+                     IGB-38                 </a>
+            </td>
+            <td>
+                Verify the error message for invalid ...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-39">
+                     IGB-39                 </a>
+            </td>
+            <td>
+                Verify the error message for invalid ...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-40">
+                     IGB-40                 </a>
+            </td>
+            <td>
+                Verify the booking process
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-41">
+                     IGB-41                 </a>
+            </td>
+            <td>
+                Verify the error message for incorrec...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-42">
+                     IGB-42                 </a>
+            </td>
+            <td>
+                Verify the required fields in the boo...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-43">
+                     IGB-43                 </a>
+            </td>
+            <td>
+                Verify the presence of tooltips on th...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-44">
+                     IGB-44                 </a>
+            </td>
+            <td>
+                Verify if Page 404 is correctly displ...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-45">
+                     IGB-45                 </a>
+            </td>
+            <td>
+                Verify visibility and functionality o...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+            <tr>
+            <td>
+                is tested by
+            </td>
+            <td>
+                <a href="https://itfclasses.atlassian.net/browse/IGB-46">
+                     IGB-46                 </a>
+            </td>
+            <td>
+                Verify the allignment of page element...
+            </td>
+            <td>
+                To Do
+            </td>
+        </tr>
+                                        </table>
+            </td>
+        </tr>
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-19068-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>This story is looking to ensure testing of the following GUI elements: menu, text, text boxes and input fields, images, cards, layout.</p>
+
+<p>The main focus of this scenario is to make sure the interface and user experience meets the expected design and functionality. The tests are executed manually observing the behaviour and functionality of the website.</p>
+
+<p><b>Preconditions:</b></p>
+
+<ul>
+	<li>tester has stable internet connection</li>
+	<li>tester uses Google Chrome browser on PC or laptop</li>
+	<li>tester navigates to travelminit website</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Generated at Sun Jun 30 15:22:41 UTC 2024 by IT Factory using Jira 1001.0.0-SNAPSHOT#100257-rev:7f46aef4c1dbd5b07243f84e4f7ddce20a37214f.
+
+</body>
+</html>
