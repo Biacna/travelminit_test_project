@@ -43,13 +43,13 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-**-	requirements are approved
+**-	business requirements are final and approved
+- ensuring the availability of human resources
+- the roles are defined and uderstood
+- the testing objectives are defined
+- the risks are identified and mitigated
+- entry and exit criteria are defined
 -	design and mock-ups are available and approved
--	smoke test is passed, the latest version of the website is available for testing 
--	test data must be available 
--	test cases are reviewed and approved
--	development of the tested modules is complete
--	testing tools are set up and available
 **
 
 <h4> 1.1.3 Exit criteria defined </h4>
@@ -105,7 +105,7 @@ Automation testing is beyond scope.
 
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
-<h3>1.2 Test Monitoring and Control<h3>
+<h4>1.2 Test Monitoring and Control<h4>
 
 **-	daily defect reports
 -	reporting defects daily as a result of testing, in order to fix them
@@ -113,7 +113,7 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 -	collect data
 -	risk management and mitigation
 -	progres tracking**
--	
+
 ![test-metrics](https://github.com/Biacna/travelminit_test_project/assets/118627174/874ea515-d2d1-4b2e-8da5-a0c6cfa91cbc)
 
 <h3> 1.3 Test Analysis </h3>
@@ -153,7 +153,7 @@ Bugs have been created based on the failed tests. The complete bug reports and s
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
-1.7 Test Completion
+<h3>1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
