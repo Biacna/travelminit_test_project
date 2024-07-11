@@ -64,16 +64,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h5> Tests in scope: </h5>
 
 **This release verifies travelminit website`s functionalities:
-- user should be able to register for a new account
-- user should be able to edit account info
-- user should easily search accommodations through the website
 - user should easily filter the search results to match the needs
-- user should be able to add an accomodation to favourites list
-- user should easily make a reservation
-- user should be able to easily book an accomodation
-- user should receive clear error messages
-- user should be able to browse the webpage on various devices using Chrome browser
-- website should be user-friendly
+- user should easily search accommodations through the website using filters
 **
 
 <h5>Tests not in scope: </h5>
@@ -145,6 +137,10 @@ Test cases are executed on the created test Cycle summary: **CycleSumm1**
 
 Bugs have been created based on the failed tests. The complete bug reports and summaries can be found here:
 
+[Bug report 1](https://github.com/Biacna/travelminit_test_project/blob/main/IGB-48-bug-report-submit-button.pdf)
+
+[Bug report 2](https://github.com/Biacna/travelminit_test_project/blob/main/IGB-50-bug-report-search-func.pdf)
+
 ![bug-ticket1](https://github.com/user-attachments/assets/8db99757-f259-4d14-9246-c9aab0166359)
 
 ![bug-ticket2](https://github.com/user-attachments/assets/ddaabdd7-b969-442d-8605-ecfeae1028eb)
@@ -155,12 +151,13 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
-**![traceabilitymatrix](https://github.com/Biacna/travelminit_test_project/assets/118627174/8bfa4a81-f6c4-4b76-b856-e436a5495ae5)
-**
 
-Test execution chart was generated and can be found below. 
+![traceabilitymatrix1ultimul](https://github.com/user-attachments/assets/c60f21b9-1d99-47b9-9391-2568b9200fcd)
 
-**![test-summary](https://github.com/Biacna/travelminit_test_project/assets/118627174/a77c1c5d-50cc-46d3-a0da-be8644695d01)
-**
+Test execution chart was generated and can be found below:
 
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop au fost acoperite, daca exista vreo functionalitate pe care nu ai apucat sa o testezi, daca bug-urile gasite impacteaza lansarea produsului in productie sau se pot fixa si ulterior, daca ai identificat riscuri de produs care trebuie mitigate, daca e vreo reecomandare pe care vrei sa o faci pentru lansare, daca sunt ceva lessons learned de care trebuie sa se tina cont la proiectele viitoare etc.)**
+![test-metrics](https://github.com/user-attachments/assets/b2cc445f-7ef2-479e-a5a2-a5e73d4b83a6)
+
+**For this project were created 2 tests that were executed multiple times. The tests in scope verified the search functionality and form functionality. The search functionality was verified using basic parameters and specific filters, while the functionality of the submit button on the booking form was verified using valid parameters. Other functionalities were out of this project`s scope. The detected bugs can impact the good functionality of the web application if not fixed promptly. Working on this project I learned about the importance of having comprehensive and understandable requirements, to be more specific and accurate and organized through the test case design and implementation.**
+
+
