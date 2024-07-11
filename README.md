@@ -113,8 +113,8 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 -	collect data
 -	risk management and mitigation
 -	progres tracking**
-
-![test-metrics](https://github.com/Biacna/travelminit_test_project/assets/118627174/874ea515-d2d1-4b2e-8da5-a0c6cfa91cbc)
+-	
+![test-metrics](https://github.com/user-attachments/assets/ff7ccfc9-b3fb-452c-a4e0-cc3ab20b757e)
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. <b></b>. <br><br>
