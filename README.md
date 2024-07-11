@@ -19,8 +19,7 @@ The below stories were created in Jira and describes the functional and GUI spec
 ![searchbar-test-story](https://github.com/Biacna/travelminit_test_project/assets/118627174/c5d80d21-3dcd-40cf-9964-a22348fd9652)
 
 Here you can find the release that was created for this project:
-
-![travelminit-test-release](https://github.com/Biacna/travelminit_test_project/assets/118627174/c482d696-03a0-4844-834f-c18890ef5949)
+![test-release](https://github.com/user-attachments/assets/96997da7-8f19-4622-9e62-13d0690adda5)
 
 <h2>Testing process</h2>
 
@@ -68,6 +67,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 - user should be able to register for a new account
 - user should be able to edit account info
 - user should easily search accommodations through the website
+- user should easily filter the search results to match the needs
 - user should be able to add an accomodation to favourites list
 - user should easily make a reservation
 - user should be able to easily book an accomodation
