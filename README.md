@@ -121,9 +121,9 @@ The testing process will be executed based on the application requirements. <b><
 
 The following test conditions were found: <br>
 
-**![gui - test - testcase2](https://github.com/Biacna/travelminit_test_project/assets/118627174/1e619e70-649c-416a-b0d0-001dfdc910a0)
+![test-conditions1](https://github.com/user-attachments/assets/30ee2adc-413f-4323-8fae-b0b53bba39b5)
 
-![searchbar-test-testcases](https://github.com/Biacna/travelminit_test_project/assets/118627174/9a4fa83e-4de7-43a1-ae27-5b33aec8e75e)**
+![test-conditions2](https://github.com/user-attachments/assets/a3d3a17e-29c3-478c-93df-ddee61f99ce6)
 
 <h3>1.4 Test Design</h3>
 
@@ -144,12 +144,10 @@ The following elements are needed to be ready before the test execution phase be
 Test cases are executed on the created test Cycle summary: **CycleSumm1**
 
 Bugs have been created based on the failed tests. The complete bug reports and summaries can be found here:
-**![bug-ticket2](https://github.com/Biacna/travelminit_test_project/assets/118627174/ee92109c-c168-4438-aad9-c535d04e465a)
 
-![bug-ticket1](https://github.com/Biacna/travelminit_test_project/assets/118627174/29f9d02b-2a37-47af-9976-3004a2409112)
+![bug-ticket1](https://github.com/user-attachments/assets/8db99757-f259-4d14-9246-c9aab0166359)
 
-![bug-ticket-bun](https://github.com/Biacna/travelminit_test_project/assets/118627174/90479e42-f5fe-4098-b520-2661cd1be899)
-**
+![bug-ticket2](https://github.com/user-attachments/assets/ddaabdd7-b969-442d-8605-ecfeae1028eb)
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
