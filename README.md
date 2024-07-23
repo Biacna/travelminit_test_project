@@ -14,12 +14,12 @@ Tools used: Jira, Zephyr Squad.
 
 The below stories were created in Jira and describes the functional and GUI specifications of the **travelminit** website,  for which the final project is performed upon.
 
-![gui - test - story2](https://github.com/Biacna/travelminit_test_project/assets/118627174/e8f7ca65-59ca-4eea-85dc-2c210767b7dd)
-
 ![searchbar-test-story](https://github.com/Biacna/travelminit_test_project/assets/118627174/c5d80d21-3dcd-40cf-9964-a22348fd9652)
 
+![gui - test - story2](https://github.com/user-attachments/assets/0760425f-4a58-42db-833c-7be0f808d0b3)
+
 Here you can find the release that was created for this project:
-![test-release](https://github.com/user-attachments/assets/96997da7-8f19-4622-9e62-13d0690adda5)
+![test-release](https://github.com/user-attachments/assets/cc351ae5-b0c7-482b-b2c4-d98fadbd2a76)
 
 <h2>Testing process</h2>
 
@@ -99,14 +99,14 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 <h4>1.2 Test Monitoring and Control<h4>
 
+![test-execution-report-git](https://github.com/user-attachments/assets/718f5650-92b1-4592-b6db-a387d0b02d8d)
+
 **-	daily defect reports
 -	reporting defects daily as a result of testing, in order to fix them
 -	ensuring communication with the team through the project manager when needed
 -	collect data
 -	risk management and mitigation
 -	progres tracking**
--	
-![test-metrics](https://github.com/user-attachments/assets/ff7ccfc9-b3fb-452c-a4e0-cc3ab20b757e)
 
 <h3> 1.3 Test Analysis </h3>
 The testing process will be executed based on the application requirements. <b></b>. <br><br>
@@ -156,7 +156,8 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 
 The traceability matrix was generated and can be found here:
 
-![traceabilitymatrix1ultimul](https://github.com/user-attachments/assets/c60f21b9-1d99-47b9-9391-2568b9200fcd)
+![traceabilitymatrix1ultimul](https://github.com/user-attachments/assets/f94f56f8-d16f-4a00-b69e-188aa95d4215)
+
 
 Test execution chart was generated and can be found below:
 
