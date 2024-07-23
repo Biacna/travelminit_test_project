@@ -155,7 +155,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
 The traceability matrix was generated and can be found here:
-
+[traceability matrix Excel report](https://github.com/Biacna/travelminit_test_project/blob/main/Forward%20Traceability_23_7_2024.xlsx)
 ![traceabilitymatrix1ultimul](https://github.com/user-attachments/assets/f94f56f8-d16f-4a00-b69e-188aa95d4215)
 
 
